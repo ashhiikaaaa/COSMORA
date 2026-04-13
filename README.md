@@ -16,10 +16,10 @@ Cosmora is a futuristic space travel web interface that simulates booking interp
 
 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS
-**Styling:** Custom CSS (Glassmorphism, Animations, Gradients)
-**Fonts:** Google Fonts (Outfit, JetBrains Mono)
-**JavaScript:** (for navigation & interactivity if added separately)
+* **Frontend:** HTML, CSS
+* **Styling:** Custom CSS (Glassmorphism, Animations, Gradients)
+* **Fonts:** Google Fonts (Outfit, JetBrains Mono)
+* **JavaScript:** (for navigation & interactivity if added separately)
 
 📂 Project Structure
 
